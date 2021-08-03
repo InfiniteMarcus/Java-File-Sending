@@ -32,7 +32,17 @@ Para o servidor, na pasta `servidor`:
 
 Para comparar as diferentes implementações, foram coletados os dados de tempo de execução entre elas, tanto ao enviar arquivos quanto receber. Estes valores, em milisegundos, foram agrupados em gráficos de dispersão. As médias e desvios padrão também foram calculados.
 
-Todos os dados estão na pasta `comp`, na planilha `data.xls`. 
+Todos os dados estão na pasta `comp`, na planilha `data.xls`.
+
+## Imagens
+
+<p align="center"> <strong> Gráficos de comparação de envio de arquivos: </strong> </p>
+
+![Comparação de envio TCP vs UDP](https://github.com/Infinitemarcus/Java-File-Sending/blob/main/img/send.png)
+
+<p align="center"> <strong> Gráficos de comparação de recebimento de arquivos: </strong> </p>
+
+![Comparação de recebimento TCP vs UDP](https://github.com/Infinitemarcus/Java-File-Sending/blob/main/img/receive.png)
 
 ## Autor
 
